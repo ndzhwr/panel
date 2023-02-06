@@ -788,10 +788,10 @@
     "@typescript-eslint/types" "5.49.0"
     eslint-visitor-keys "^3.3.0"
 
-"@veritem/useform@^0.0.11":
-  version "0.0.11"
-  resolved "https://registry.npmjs.org/@veritem/useform/-/useform-0.0.11.tgz"
-  integrity sha512-rCYn0OzG0SfTPghjTz8FWfyhmSS4eBkIO88nGzjE/gsrebtBmVMuW5H2uI9rjcHw83+mMGlfPRfJ3FJw3zIuqQ==
+"@veritem/useform@^0.0.15":
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/@veritem/useform/-/useform-0.0.15.tgz#782aa676e0c2c38effc8b59c5decdde3f091bbdb"
+  integrity sha512-+2X9f4rmSMi1ce095ZVB59qx7u/JGi/DgZtKWTfbgdfYB1OYEoKXljb76zjUTvdnD1/dJJ6PrjKUFiZfP+GRNw==
 
 acorn-jsx@^5.3.2:
   version "5.3.2"
