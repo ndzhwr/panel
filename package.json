@@ -10,7 +10,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@next/font": "^13.1.1",
+    "@next/font": "^13.2.4",
     "@types/firebase": "^3.2.1",
     "@types/react-toastify": "^4.1.0",
     "@veritem/useform": "^0.0.11",
